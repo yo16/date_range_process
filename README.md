@@ -18,3 +18,9 @@
   - 2023/1/1～2023/3/14
   - 2023/6/11～2023/7/10
 
+# テスト方法
+```
+cd ./src
+python -m unittest -v test_date_range_process.py
+```
+
