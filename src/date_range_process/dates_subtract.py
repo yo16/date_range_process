@@ -1,4 +1,4 @@
-"""日付範囲の集合を計算する
+"""日付範囲の集合の差を計算する
 """
 
 from .common import dt_iterator, get_dt_obj, day_before, day_after, str_to_dt
